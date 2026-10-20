@@ -1,0 +1,3 @@
+interface:
+  display_name: "DeepSeek 联网检索"
+  short_description: "用 DeepSeek Search/Fetch API 搜索实时网络信息并抓取网页正文"
